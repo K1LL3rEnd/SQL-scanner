@@ -1,7 +1,3 @@
-# Date: 01/02/2019
-# Author: Mohamed
-# Description: SQL Vulnerability Scanner
-
 from lib.sql import SQL 
 from lib.display import Display
 from argparse import ArgumentParser
